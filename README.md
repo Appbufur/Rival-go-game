@@ -12,6 +12,7 @@ Rival Go is a browser-based multiplayer game platform built on WebRTC/P2P archit
 
 The platform currently ships two game modes:
 
+<img width="900" height="864" alt="Launch4" src="https://github.com/user-attachments/assets/c5dea12c-0fba-419a-b013-d13c7315f9bb" />
 ---
 
 ## Game Modes
@@ -22,10 +23,13 @@ A real-time card matching game. The board is populated with face-down card pairs
 
 Scoring: a matched pair is awarded to whichever player flips the second card of the pair first. Most matches when the timer expires wins. Real matches award 5 wins to the winner; bot matches award 1.
 
+<img width="365" height="364" alt="Launch" src="https://github.com/user-attachments/assets/3abe9dc3-33d8-4976-9d19-9f66feb1bf3f" />
+
 ### Block Merge
 
 A block placement game where players place falling or selectable blocks onto a shared or individual board to clear lines and accumulate score. The objective is to clear the board by merging and eliminating block formations. Designed as a secondary competitive mode alongside Memory.
 
+<img width="914" height="877" alt="Block merge" src="https://github.com/user-attachments/assets/c9e69ff9-7eb8-4d1d-a537-cc3ce8e5c38e" />
 ---
 
 ## Daily Challenges
