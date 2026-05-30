@@ -2,7 +2,7 @@
 
 **Real-time multiplayer browser game. No install. No sign-up. Share a link and play.**
 
-Live at [rivalgogame.com](https://rivalgogame.com)
+[rivalgogame.com](https://rivalgogame.com)
 
 ---
 
